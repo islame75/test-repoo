@@ -1478,4 +1478,14 @@ color: white;
 
     }
 
+    .one{
+        grid-row: 1/2;
+
+    }
+    .two{
+        grid-row: 2/3;
+    }
+    .three{
+        grid-row: 3/4;
+    }
 }
